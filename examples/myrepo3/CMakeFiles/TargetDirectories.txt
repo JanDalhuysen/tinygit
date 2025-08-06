@@ -1,0 +1,3 @@
+/home/jan/git/tinygit/myrepo3/CMakeFiles/tinygit.dir
+/home/jan/git/tinygit/myrepo3/CMakeFiles/edit_cache.dir
+/home/jan/git/tinygit/myrepo3/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tinygit.dir/tinygit.cpp.o -o tinygit  /home/jan/vcpkg/installed/x64-linux/debug/lib/libcrypto.a /home/jan/vcpkg/installed/x64-linux/lib/libz.a -ldl 
